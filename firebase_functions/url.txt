@@ -1,0 +1,5 @@
+Firebase Cloud Functions - Resizing Images after Upload:
+https://www.youtube.com/watch?v=YGsmWKMMiYs&index=2&list=PL55RiY5tL51r5jyQoPZhwLueLpPeAV6P9
+
+Firebase Cloud Functions - Creating a REST Endpoint with Cloud Functions:
+https://www.youtube.com/watch?v=qZ1EFnFOGvE&index=3&list=PL55RiY5tL51r5jyQoPZhwLueLpPeAV6P9
